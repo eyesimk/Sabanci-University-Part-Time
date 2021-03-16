@@ -1,0 +1,7 @@
+.BorderPosition{
+display:flex;
+flex-direction: row;
+border-style: double;
+justify-content: space-around;
+
+}

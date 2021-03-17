@@ -1,0 +1,9 @@
+.Tweets {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-color: #304255;
+  border-radius: 10%;
+  overflow-y: scroll;
+  max-height: 800px;
+}
